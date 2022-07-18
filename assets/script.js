@@ -1,4 +1,4 @@
-function Dicegame(){
+function diceGame(){
   let userchoice = prompt("Choose a number 1 - 6");
   let hilo = prompt("high or low?");
   let dicevalues = [1, 2, 3, 4, 5, 6];
